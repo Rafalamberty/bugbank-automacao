@@ -2,6 +2,9 @@
 
 Automação de testes do site <a href="https://bugbank.netlify.app/" target="_blank">Bug Bank</a> 
 
+![img](https://user-images.githubusercontent.com/66036208/229676246-9b113f03-21d2-4252-979d-0687b6fec496.png)
+
+
 ##
 
 ###  📝 Ferramentas utilizadas
