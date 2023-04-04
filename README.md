@@ -16,7 +16,7 @@ Automação de testes do site <a href="https://bugbank.netlify.app/" target="_bl
 
 * Possuir o `Chrome Driver` no diretório `C:\Selenium\`.
 
-## 🚀 Clonar o projeto
+## 💻 Clonar o projeto
 
 Para clonar o projeto, execute o seguinte comando no terminal:
 
