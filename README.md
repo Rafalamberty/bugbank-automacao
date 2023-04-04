@@ -21,7 +21,7 @@ Automação de testes do site <a href="https://bugbank.netlify.app/" target="_bl
 Para clonar o projeto, execute o seguinte comando no terminal:
 
 ``` bash
-<h3> git clone : https://github.com/Rafalamberty/bugbank-automacao.git
+ git clone : https://github.com/Rafalamberty/bugbank-automacao.git
 
 
 
